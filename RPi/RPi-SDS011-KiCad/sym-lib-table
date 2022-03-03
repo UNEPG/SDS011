@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "RPi-SDS011-ArduCam")(type "KiCad")(uri "${KIPRJMOD}/RPi-SDS011-ArduCam.kicad_sym")(options "")(descr ""))
+)

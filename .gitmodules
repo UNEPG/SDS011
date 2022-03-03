@@ -1,0 +1,6 @@
+[submodule "RPi/pi_air_quality_monitor"]
+	path = RPi/pi_air_quality_monitor
+	url = https://github.com/azataiot/pi_air_quality_monitor.git
+[submodule "RPi/RaspberryPi"]
+	path = RPi/RaspberryPi
+	url = https://github.com/azataiot/RaspberryPi.git
